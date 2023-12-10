@@ -21,6 +21,7 @@ selector{
 II> external css
  -written in external.css page 
 - to link external css with html 
+
 < link rel="stylesheet" href="filename.css">
 iii> inline css
 written in tag as a attribute
