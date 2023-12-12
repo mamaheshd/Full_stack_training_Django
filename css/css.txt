@@ -34,7 +34,6 @@ selector
 -id
 -
 
-
 shorthand property of margin
         margin:10px 12px 15px 20px;
                 t     r    b   l
