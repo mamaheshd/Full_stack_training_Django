@@ -24,6 +24,7 @@ II> external css
 - to link external css with html 
 
 < link rel="stylesheet" href="filename.css">
+
 iii> inline css
 written in tag as a attribute
 <p style="color:red;"> ......</p>
