@@ -16,7 +16,7 @@ syntax
 selector{
 	property:value;
 }
-</style>
+</style> 
 </head>
 
 II> external css
