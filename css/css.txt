@@ -20,7 +20,7 @@ selector{
 </head>
 
 II> external css
- -written in external.css page 
+ -written in external.css page  
 - to link external css with html 
 
 < link rel="stylesheet" href="filename.css">
